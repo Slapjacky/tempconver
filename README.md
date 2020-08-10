@@ -1,6 +1,4 @@
-# tempconver
-
-Celsius <-> Fahrenheit converter
+# Celsius <-> Fahrenheit converter
 
     First, it should just be a program where you enter a temperature in celsius and it gives you fahrenheit.
 
